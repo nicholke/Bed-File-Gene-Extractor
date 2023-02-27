@@ -1,4 +1,4 @@
-## Bed-File-Gene-Extractor
+## Gene list and bed file comparison script
 
 This script compares a list of genes in a text file to a large bed file and outputs a CSV file containing only the genes that are in both files.
 
