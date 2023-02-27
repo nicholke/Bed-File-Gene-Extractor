@@ -3,8 +3,8 @@
 This script compares a list of genes in a text file to a large bed file and outputs a CSV file containing only the genes that are in both files.
 
 ## Requirements
--Python 3
--pandas
+- Python 3
+- pandas
 ## Usage
 -Place the script in a directory with the gene list file and bed file.
 -Open a terminal window in that directory.
